@@ -1,0 +1,28 @@
+{
+  "kind": "calendar#event",
+  "etag": ""3038482984290000"",
+  "id": "vfsv2rpr4rdsd6796u00pjqefo",
+  "status": "confirmed",
+  "htmlLink": "https://www.google.com/calendar/event?eid=dmZzdjJycHI0cmRzZDY3OTZ1MDBwanFlZm8gbWF0dGVvQHBsZW50eS5hZw",
+  "created": "2018-02-14T21:36:40.000Z",
+  "updated": "2018-02-21T19:31:32.145Z",
+  "summary": "On-site interview - Lokesh Rishnamoorthy - SVP COMPUTER SCIENCE (INTERNAL RECRUITER USE ONLY)",
+  "description": "SCHEDULE\n11:15 - 11:30 am — Laura Masho — SF- The Coop  "ZOOM ONLY"\n11:30 - 12:30 pm — Matt Barnard — SF- The Coop  "ZOOM ONLY"\n12:30 - 1:00 pm — Alison Covarrubias-Clapp — SF- The Coop  "ZOOM ONLY"\n1:00 - 2:00 pm — Matteo Melani — SF- The Coop  "ZOOM ONLY"\n2:00 - 2:15 pm — Laura Masho — SF- The Coop  "ZOOM ONLY"\n\nView resume and leave feedback: https://hire.lever.co/interviews/e405c789-2cad-4998-9f13-9c29286a322f",
+  "location": "SF- The Coop",
+  "creator": {
+    "email": "laura@plenty.ag"
+  },
+  "organizer": {
+    "email": "barnland.com_h2k6fqigq3o7in36prbu3j44jo@group.calendar.google.com",
+    "displayName": "Interviewing Calendar"
+  },
+  "start": {"dateTime": "2018-02-27T13:00:00-08:00"},
+  "end": {"dateTime": "2018-02-27T14:00:00-08:00"},
+  "iCalUID": "vfsv2rpr4rdsd6796u00pjqefo@google.com",
+  "sequence": 0,
+  "attendees": [
+    {"email": "barnland.com_39373131313239313838@resource.calendar.google.com", "displayName": "SF- The Coop", "resource": true, "responseStatus": "accepted"},
+    {"email": "matteo@plenty.ag", "self": true, "responseStatus": "needsAction"}
+  ],
+  "reminders": {"useDefault": true}
+}
